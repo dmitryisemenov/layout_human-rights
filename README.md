@@ -1,0 +1,2 @@
+- [Demo link](https://dmitryisemenov.github.io/layout_human-rights/)
+- [Test report](https://dmitryisemenov.github.io/layout_human-rights/report/html_report/)
